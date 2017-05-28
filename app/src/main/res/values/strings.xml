@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KRS2.0</string>
+    <string name="action_settings">Strona główna</string>
+    <string name="title_activity_wyszukiwarka">Wyszukiwarka</string>
+    <string name="action_wysz">Wyszukiwarka</string>
+    <string name="title_activity_dane">Dane</string>
+    <string name="action_dane">Dane</string>
+    <string name="title_activity_lista">Lista</string>
+    <string name="action_lista">Lista osób</string>
+    <string name="title_activity_podzial_forma">PodzialForma</string>
+    <string name="action_podzialF">Forma prawna</string>
+    <string name="title_activity_podzial_wojew">PodzialWojew</string>
+    <string name="action_podzialW">Podział województwa</string>
+    <string name="title_activity_autorzy">Autorzy</string>
+</resources>
